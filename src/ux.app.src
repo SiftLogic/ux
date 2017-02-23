@@ -1,7 +1,7 @@
 %% -*- erlang -*-
 {application, ux,
  [{description, "ux"},
-  {vsn, "3.0.1"},
+  {vsn, "3.4.2"},
   {modules, [ux_unidata, 
             ux_char, 
             ux_string,
